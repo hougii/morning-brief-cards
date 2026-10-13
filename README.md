@@ -6,7 +6,7 @@
 
 - [2026-10-13（週二）](cards/2026-10-13/index.md)
 
-## 每日內容（7 張，1080×1350 PNG）
+## 每日內容（7 張，1080×1350，每張有 PNG 與 JPG 兩份）
 
 | 檔名 | 內容 |
 | --- | --- |
@@ -15,3 +15,10 @@
 | `05-markets.png` | 財經與市場數字表 |
 | `06-tw-world.png` | 台灣與國際速覽 |
 | `07-tech-ai.png` | 科技與 AI 速覽 |
+
+JPG 供 Instagram 發佈用（Instagram 只收 JPEG）。
+
+另有兩個文字檔供自動發佈流程（Make.com）讀取：
+
+- `caption.txt`：Facebook 與 Instagram 貼文文案
+- `threads.txt`：Threads 貼文文案（500 字內）
